@@ -57,7 +57,9 @@ Principaux GPIO utilisés :
 Connexions matérielles :
 Composant             Broche ESP32         Description
 MOSFET TRIG/PWM	      GPIO15	             Active/désactive le moteur
+
 LED	                  GPIO2	               Allume/éteint la lumière
+
 Bouton Poussoir	      GPIO4	               Commande lecture/arrêt
 Carte SD	            GPIO5	               Sélection carte SD
 I2S Audio Output	    GPIO26/25/22	       Broches BCLK, LRC, DOUT
