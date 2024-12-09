@@ -52,7 +52,7 @@ void setup() {
   Serial.println("Initialisation des sorties audio...");
   out = new AudioOutputI2S();
   out->SetPinout(I2S_BCLK, I2S_LRC, I2S_DOUT);
-  out->SetGain(0.8); // Volume à 80%
+  out->SetGain(1.0); // Volume à 100%
   Serial.println("Sorties audio initialisées.");
 
   // Création des objets audio
