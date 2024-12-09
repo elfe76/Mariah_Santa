@@ -4,34 +4,49 @@ Ce projet transforme une boule à neige traditionnelle en une expérience magiqu
 🎁 Composants Utilisés
 Boule à Neige
 
-    Boule à neige Magic Village
+    Boule à neige Magic Village (Action)
+    https://www.action.com/fr-fr/p/3206727/boule-a-neige-magic-village/
     Utilisée comme base pour le projet.
+    -- 16.95e --
+
+Figurine POP
+
+    Mariah Carey #85 (Via Vinted)
+    https://www.amazon.fr/Funko-Rocks-Music-Mariah-Christmas/dp/B082H2RDJM
+    Utilisée comme base pour le projet.
+    -- 10.00e (FDP + Protection acheteur) --
 
 Électronique
 
     MOSFET Switch Drive Module DC 5V-36V 15A
     https://fr.aliexpress.com/item/1005005954937751.html?spm=a2g0o.order_list.order_list_main.17.90c35e5bzEMOHc&gatewayAdapt=glo2fra
     Pour contrôler le moteur ou d'autres charges en synchronisation avec la musique.
+    -- 00.00e --
 
     ESP32 Microcontroller
     https://fr.aliexpress.com/item/1005007514633433.html?spm=a2g0o.order_list.order_list_main.29.90c35e5bzEMOHc&gatewayAdapt=glo2fra
     Le cœur du système pour contrôler l'ensemble des fonctionnalités.
+    -- 00.00e --
 
     Batterie 18650
     https://fr.aliexpress.com/item/1005006224109912.html?spm=a2g0o.order_list.order_list_main.41.90c35e5bzEMOHc&gatewayAdapt=glo2fra
     Alimentation portable pour le projet.
+    -- 00.00e --
 
     Lecteur de carte SD
     https://fr.aliexpress.com/item/1005005094642611.html?spm=a2g0o.order_list.order_list_main.75.90c35e5bzEMOHc&gatewayAdapt=glo2fra
     Pour stocker et lire les fichiers MP3.
+    -- 00.00e --
 
     Mini Amplificateur Audio
     https://fr.aliexpress.com/item/1005006044079239.html?spm=a2g0o.order_list.order_list_main.86.90c35e5bzEMOHc&gatewayAdapt=glo2fra
     Amplifie le son avant qu'il ne soit joué par l'enceinte.
+    -- 00.00e --
 
     Enceinte compacte
     https://fr.aliexpress.com/item/1005006044079239.html?spm=a2g0o.order_list.order_list_main.86.90c35e5bzEMOHc&gatewayAdapt=glo2fra
     Pour diffuser le son.
+    -- 00.00e --
 
 📜 Fonctionnalités
 
